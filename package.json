@@ -16,12 +16,12 @@
   "author": "Lars-Erik Kimmel <gerro_den@gmx.de>",
   "license": "ISC",
   "dependencies": {
-    "axios": "0.19.0"
+    "axios": "~0.19.0"
   },
   "devDependencies": {
-    "antlr4": "4.7.2",
-    "eslint": "6.1.0",
-    "eslint-plugin-node": "9.1.0"
+    "antlr4": "^4.7.2",
+    "eslint": "^6.8.0",
+    "eslint-plugin-node": "^10.0.0"
   },
   "private": true
 }
