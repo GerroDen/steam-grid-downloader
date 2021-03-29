@@ -19,9 +19,9 @@
     "axios": "~0.21.1"
   },
   "devDependencies": {
-    "antlr4": "^4.7.2",
-    "eslint": "^6.8.0",
-    "eslint-plugin-node": "^10.0.0"
+    "antlr4": "^4.9.2",
+    "eslint": "^7.23.0",
+    "eslint-plugin-node": "^11.1.0"
   },
   "private": true
 }
