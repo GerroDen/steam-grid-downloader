@@ -16,7 +16,7 @@
   "author": "Lars-Erik Kimmel <gerro_den@gmx.de>",
   "license": "ISC",
   "dependencies": {
-    "axios": "~0.21.1"
+    "axios": "~0.21.2"
   },
   "devDependencies": {
     "antlr4": "^4.9.2",
